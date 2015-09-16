@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:11.911472
+#+DATE: 2015-08-30 19:48:15.604877
 #+TITLE: 法華義疏
 #+PROPERTY: CBETA_ID T34n1721
 #+PROPERTY: ID KR6d0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1721
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6d0024_T_008-0558a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 法華義疏卷第八¶
+法華義疏卷第八¶
 ¶
 胡吉藏撰¶
 
-5藥草喻品
-:PROPERTIES:
-:head: 藥草喻品第五
-:END:
-¶
+藥草喻品第五¶
 
 所以有此品來者。自華嚴始集終竟靈山前¶
 會謂開五乘之教也。此經之始至信解之終¶
@@ -755,11 +750,7 @@
 答。決定之人即是守教封執小¶
 果。即被破不會。若轉悟者即會而不破也。¶
 
-6授記品
-:PROPERTIES:
-:head: 授記品第六
-:END:
-¶
+授記品第六¶
 
 授記既是法華要義亦是眾經大宗。今略釋¶
 之宜開七門。一來意門。二釋名門。三能受人¶
@@ -1004,11 +995,7 @@
 人記。我及汝等下大段第二一偈許說宿世¶
 等因緣也。¶
 
-7化城喻品
-:PROPERTIES:
-:head: 化城喻品第七
-:END:
-¶
+化城喻品第七¶
 
 今以三門釋之。一來意門二釋名門三決疑¶
 門。來意門者。乘權乘實凡有三周之說。一法¶
